@@ -1,6 +1,7 @@
 ## NOTE:
+A laptop is preferable for using this project.
 
-This project must be used at https://colab.research.google.com/github/code-for-neighborhood-needs/make_name_flashcards/blob/main/main.ipynb
+This project *must* be used at https://colab.research.google.com/github/code-for-neighborhood-needs/make_name_flashcards/blob/main/main.ipynb
 
 # Instructions:
 
