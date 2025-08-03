@@ -2,6 +2,7 @@
 - A laptop is preferable for using this project.
 - This project is designed for compatibility with the [Anki](https://apps.ankiweb.net/) software. Download on your phone or laptop!
 - This project can *only* be used at https://colab.research.google.com/github/code-for-neighborhood-needs/make_name_flashcards/blob/main/main.ipynb
+- DO NOT CLICK "Run All" seen below.
 # Instructions:
 
 1. Go to https://directory.churchofjesuschrist.org/
@@ -11,12 +12,13 @@
 5. On the print screen, instead of printing to a printer, click "Save to PDF" and print it.
 6. Rename that pdf "ward_directory.pdf".
 7. Upload it to this project.
-8. Click "Run All" on the command line above.
+8. Click "▶" on the first cell.
 9. You should have a zip file now, with the following:
     - an Anki file that, when clicked, will import your flashcard set to Anki on your computer. It can also be imported to your phone if you send the file to your phone.
     - a pdf for making physical flashcards.
     - a tsv file with the raw file used to make the flashcard set.
     - the images associated with the tsv file.
+10. If you would like to re-run the system for more files, and you find it is giving you bugs, trying running "▶" on the second cell.
 
 
 <p align="center">
