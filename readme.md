@@ -2,7 +2,7 @@
 - A laptop is preferable for using this project.
 - This project is designed for compatibility with the [Anki](https://apps.ankiweb.net/) software. Download on your phone or laptop!
 - This project can *only* be used at https://colab.research.google.com/github/code-for-neighborhood-needs/make_name_flashcards/blob/main/main.ipynb
-- DO NOT CLICK "Run All" seen below.
+- DO NOT CLICK "Run All". It will mess with how the download works. Follow instructions below.
 # Instructions:
 
 1. Go to https://directory.churchofjesuschrist.org/
