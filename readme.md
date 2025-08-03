@@ -3,6 +3,9 @@
 - This project is designed for compatibility with the [Anki](https://apps.ankiweb.net/) software. Download on your phone or laptop!
 - This project can *only* be used at https://colab.research.google.com/github/code-for-neighborhood-needs/make_name_flashcards/blob/main/main.ipynb
 
+## WARNING:
+- It may take more than 10 minutes to run the code. Due to the setup of Google Colabs, you will need to move the mouse or screen to keep Google Colabs from pausing due to inactivity.
+
 # Instructions:
 
 1. Go to https://directory.churchofjesuschrist.org/
