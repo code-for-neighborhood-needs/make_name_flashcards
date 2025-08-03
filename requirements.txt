@@ -1,4 +1,3 @@
-git+https://github.com/code-for-neighborhood-needs/make_name_flashcards.git@main#egg=make_name_flashcards
 absl-py==1.4.0
 accelerate==1.9.0
 aiofiles==24.1.0
