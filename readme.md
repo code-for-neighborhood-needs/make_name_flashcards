@@ -11,7 +11,7 @@
 4. Click "Print".
 5. On the print screen, instead of printing to a printer, click "Save to PDF" and print it.
 6. Rename that pdf "ward_directory.pdf".
-7. Upload it to this project.
+7. Upload it to this project by going to this link and clicking through the buttons as described in the next step: https://colab.research.google.com/github/code-for-neighborhood-needs/make_name_flashcards/blob/main/main.ipynb
 8. Click "▶" on the first cell.
 9. You should have a zip file now, with the following:
     - an Anki file that, when clicked, will import your flashcard set to Anki on your computer. It can also be imported to your phone if you send the file to your phone.
